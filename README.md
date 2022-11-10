@@ -33,7 +33,7 @@
 <img width="50" align="center" title="Android Studio" src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg">
   </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imbaReaver)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imbaReaver)
   
     
                                                                                                   
